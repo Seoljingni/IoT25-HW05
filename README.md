@@ -1,7 +1,7 @@
 # IoT25-HW05
 
-### Changing the temperature & humidity
-https://youtube.com/shorts/EtoR3ZE3qcA
+### Changing the temperature & humidity result vedio
+->  https://youtube.com/shorts/EtoR3ZE3qcA
 
 ## server
 <img width="536" alt="KakaoTalk_20250514_124430956_01" src="https://github.com/user-attachments/assets/c7bf6627-2c20-400d-b1e2-bffa2cb320aa" />
